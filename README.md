@@ -1,4 +1,4 @@
-<h1 align="center">👋I'm Joe, a junior web developer based in Montréal 🍁</h1>
+<h2 align="center">👋I'm Joe, a junior web developer based in Montréal 🍁</h2>
 
 I'm passionate about solving technical problems, and love to take on new challenges - in fact, it's the main reason I swapped careers, from communications to coding, and took on Le Wagon's Nine Week Intensive Web Development Bootcamp.
 
