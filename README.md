@@ -1,18 +1,14 @@
-<h2 align="center">👋I'm Joe, a junior web developer based in Montréal 🍁</h2>
+<h2 align="center">👋I'm Joe, a web developer based in Montréal 🍁</h2>
 
-I'm passionate about solving technical problems, and love to take on new challenges - in fact, it's the main reason I swapped careers, from communications to coding, and took on Le Wagon's Nine Week Intensive Web Development Bootcamp.
+I'm passionate about solving technical problems, and love to take on new challenges - in fact, it's the main reason I swapped careers, from communications to coding.
 
-- 👷‍♂️ I recently built [Farmland](https://github.com/sebasfourn/farmland/) as a final team project at Le Wagon.
+- 👷‍♂️ Full stack developer, having built three MVPs.
 
-- 💁‍♂️ Watch me present our demo of Farmland [here](https://www.linkedin.com/events/demoday-full-timewebdevelopment7101903523700690945/comments/)
+- 🔧 Experience in **React, Ruby on Rails, Next.JS, and more**.
 
-- 🔧 Experience in **HTML, CSS, SQL, JavaScript (Stimulus), Ruby on Rails, Git, GitHub, Figma, and Heroku**.
+- 💼 I'm currently **working as a developer** while building personal projects you'll see here to further my professional development
 
-- 💼 I'm currently **seeking work as a junior developer**
-
-- 📈 I'm now learning React, and I will keep learning and improving my current skills by working on new projects
-
-- 🏃‍♂️ Offline, my hobbies include running, swimming, exploring the city, and learning new things
+- 🏃‍♂️ Offline, my hobbies include running, swimming, exploring Montréal, and learning new things
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
